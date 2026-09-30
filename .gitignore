@@ -1,0 +1,7 @@
+# Результаты пробника: содержат тела запросов кабинета, в git не попадают.
+/probe-*.zip
+/probe-*/
+/mp-reviews-probe
+/mp-reviews-probe.exe
+.env
+/bin/
